@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @fgray96
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on future projects.
-- 📫 How to reach me send me an email.
+Welcom to my github!
 
-<!---
-fgray96/fgray96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love programming. I plan to one day mix this passion with my career by becoming a software engineer. 
+
+So far I am great at HTML, CSS, javascript, and React. 
+
+I'm looking forward to particpating in some open source projects. 
+
+I'm putting more of a focus on documentation on my projects going forward. 
+
+Please reach out for anything and everything. I'd love to collaborate. 
