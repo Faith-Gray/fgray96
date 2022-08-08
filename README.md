@@ -1,4 +1,4 @@
-Welcom to my github!
+Welcome to my github!
 
 I love programming. I plan to one day mix this passion with my career by becoming a software engineer. 
 
