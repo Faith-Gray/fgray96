@@ -9,3 +9,5 @@ I'm looking forward to particpating in some open source projects.
 I'm putting more of a focus on documentation on my projects going forward. 
 
 Please reach out for anything and everything. I'd love to collaborate. 
+
+I am officially on the serach for open source projects to contriute to. Please reach out if you have something I could help with!
